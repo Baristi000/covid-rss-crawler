@@ -1,0 +1,9 @@
+feedparser
+fastapi
+uvicorn
+fastapi-utils
+selenium
+grpcio
+grpcio-tools
+bs4
+nltk

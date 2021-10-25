@@ -1,0 +1,8 @@
+version: "3"
+
+services:
+  rss-crawler:
+    image: baristi000/rss-crawler:1.0.0
+    restart: always
+    ports: 
+      - 8000:8000
